@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yesh Viroja 👋
+# Hi, I'm Yeshpatel Viroja 👋
 
 ### AI Engineer @ TCS | Generative AI • Agentic AI • Machine Learning
 
