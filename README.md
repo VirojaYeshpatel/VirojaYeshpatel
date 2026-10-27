@@ -19,7 +19,7 @@ I build AI-powered applications and practical software across machine learning, 
 - 🛠️ Building practical applications that combine AI, APIs, data, and user-facing experiences
 - 🧠 Interested in **LLMs, intelligent automation, recommendation systems, and AI agents**
 - 🚀 Enjoy taking projects from an idea toward usable, maintainable software
-- 🎓 Building both professional projects and academic work, with more project showcases coming soon
+- 🎓 Building both professional projects and academic work
 
 ---
 
@@ -32,11 +32,7 @@ I build AI-powered applications and practical software across machine learning, 
 
 ---
 
-## 🚀 Featured Projects
-
-### 💼 JobPilot-AI — Personal Production-Level Project
-A personal project I am developing toward production-level quality. The repository is currently private, so its code is not publicly accessible.
-[**Private repository**](https://github.com/VirojaYeshpatel/JobPilot-AI)
+## 🚀 Featured Public Projects
 
 ### 🚨 [Alerting & Notification Platform](https://github.com/VirojaYeshpatel/alerting-system)
 A backend alerting platform built with **FastAPI, SQLAlchemy, MySQL, and APScheduler**, with alert management, snoozing, reminders, and analytics.
@@ -45,7 +41,7 @@ A backend alerting platform built with **FastAPI, SQLAlchemy, MySQL, and APSched
 A computer-vision project focused on detecting objects and estimating their distance.
 
 ### 🎬 [Movie Recommendation System](https://github.com/VirojaYeshpatel/movie-app)
-A machine-learning-powered movie recommender built with **Python, Streamlit, Pandas, NumPy, and scikit-learn**, using recommendation techniques and similarity matching.
+A machine-learning-powered movie recommender built with **Python, Streamlit, Pandas, NumPy, and scikit-learn**, using recommendation techniques and similarity matching.  
 [**Try the live demo**](https://movie-app-ypfie7rv9e8nyzj5arxgxw.streamlit.app/)
 
 ### 📺 [ASTAFLIX Streaming Dashboard](https://github.com/VirojaYeshpatel/my-streaming-dashboard)
@@ -58,8 +54,8 @@ A multi-platform project foundation combining a **Node.js/Express backend, React
 
 ## 🔭 More Project Showcases Coming Soon
 
-- **EventScape** — my Master's major project. A public project showcase will be added when I upload the repository.
-- **AI-Powered Intelligent Travel Booking System** — an AI-powered travel and booking system I developed. Its public showcase will be added when I upload the repository.
+- **EventScape** — my Master's major project. I'll add its public showcase when I upload the repository.
+- **AI-Powered Intelligent Travel Booking System** — an AI-powered travel and booking system I developed. I'll add its public showcase when I upload the repository.
 
 ---
 
