@@ -2,9 +2,9 @@
 
 # Hi, I'm Yeshpatel Viroja 👋
 
-### AI Engineer @ TCS | Generative AI • Agentic AI • Machine Learning
+### AI Engineer @ TCS | Generative AI • LLM Applications • AI Agents
 
-I build AI-powered applications and practical software across machine learning, backend engineering, automation, and full-stack development.
+I build practical software and AI-powered applications, with a focus on LLM-based systems, retrieval-augmented generation (RAG), AI agents, backend APIs, and full-stack development.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VirojaYeshpatel&style=flat-square)](https://github.com/VirojaYeshpatel)
 [![GitHub followers](https://img.shields.io/github/followers/VirojaYeshpatel?label=Followers&style=flat-square)](https://github.com/VirojaYeshpatel?tab=followers)
@@ -15,48 +15,55 @@ I build AI-powered applications and practical software across machine learning, 
 
 ## 👨‍💻 About Me
 
-- 🤖 AI Engineer focused on **AI, Machine Learning, Generative AI, and agentic systems**
-- 🛠️ Building practical applications that combine AI, APIs, data, and user-facing experiences
-- 🧠 Interested in **LLMs, intelligent automation, recommendation systems, and AI agents**
-- 🚀 Enjoy taking projects from an idea toward usable, maintainable software
-- 🎓 Building both professional projects and academic work
+- 🤖 Focused on **Generative AI, LLM applications, RAG, and AI agents**
+- 🔎 Exploring **semantic search, hybrid search, embeddings, and vector databases** for retrieval-focused applications
+- 🛠️ Build backend services and REST APIs using **Python, FastAPI, Java, and Spring Boot**
+- 🌐 Develop web interfaces with **React.js, HTML5, and CSS3**
+- 🚀 Interested in turning AI concepts into useful, reliable applications
 
 ---
 
-## 🧰 Technologies
+## 🧰 Technical Skills
 
-**AI & Data:** Python · scikit-learn · Pandas · NumPy · Streamlit  
-**Backend & Databases:** FastAPI · Node.js · Express · SQLAlchemy · MySQL · PostgreSQL  
-**Frontend & Apps:** React · Next.js · TypeScript · Tailwind CSS · Flutter  
-**Areas of Interest:** Generative AI · Agentic AI · LLM applications · Machine Learning · Intelligent Automation
+| Category | Skills |
+|---|---|
+| **Programming Languages** | Python · Java · SQL |
+| **Generative AI & LLMs** | LLMs · Prompt Engineering · RAG · AI Agents · Tool Calling · Embeddings |
+| **AI Frameworks & Retrieval** | LangChain · LangGraph · Vector Databases · Semantic Search · Hybrid Search |
+| **Backend Development** | FastAPI · Spring Boot · REST APIs · JDBC |
+| **Frontend Development** | React.js · HTML5 · CSS3 |
+| **Databases** | MySQL · PostgreSQL |
+| **Developer Tools** | Git · GitHub · Postman · VS Code |
 
 ---
 
 ## 🚀 Featured Public Projects
 
 ### 🚨 [Alerting & Notification Platform](https://github.com/VirojaYeshpatel/alerting-system)
-A backend alerting platform built with **FastAPI, SQLAlchemy, MySQL, and APScheduler**, with alert management, snoozing, reminders, and analytics.
+A backend alerting platform built with **FastAPI, SQLAlchemy, MySQL, and APScheduler**. Includes alert management, snoozing, reminders, and analytics.
 
 ### 👁️ [Object Detection with Distance Estimation](https://github.com/VirojaYeshpatel/Object_Detection_With_Distance)
-A computer-vision project focused on detecting objects and estimating their distance.  
+A browser-based computer-vision demo that detects objects from a camera or uploaded image and estimates approximate distance.
+  
 [**🚀 Try the live demo**](https://virojayeshpatel.github.io/Object_Detection_With_Distance/)
 
 ### 🎬 [Movie Recommendation System](https://github.com/VirojaYeshpatel/movie-app)
-A machine-learning-powered movie recommender built with **Python, Streamlit, Pandas, NumPy, and scikit-learn**, using recommendation techniques and similarity matching.  
-[**Try the live demo**](https://movie-app-ypfie7rv9e8nyzj5arxgxw.streamlit.app/)
+A machine-learning-powered movie recommender built with **Python, Streamlit, Pandas, NumPy, and scikit-learn**, using recommendation techniques and similarity matching.
+  
+[**🚀 Try the live demo**](https://movie-app-ypfie7rv9e8nyzj5arxgxw.streamlit.app/)
 
 ### 📺 [ASTAFLIX Streaming Dashboard](https://github.com/VirojaYeshpatel/my-streaming-dashboard)
 A streaming dashboard built with **Next.js, TypeScript, Tailwind CSS, and the TMDB API**, featuring dynamic movie pages and movie data.
 
 ### 🍔 [Food Ordering System](https://github.com/VirojaYeshpatel/food-ordering-system)
-A multi-platform project foundation combining a **Node.js/Express backend, React admin panel, and Flutter mobile application**.
+A multi-platform project combining a **Node.js/Express backend, React admin panel, and Flutter mobile application**.
 
 ---
 
 ## 🔭 More Project Showcases Coming Soon
 
 - **EventScape** — my Master's major project. I'll add its public showcase when I upload the repository.
-- **AI-Powered Intelligent Travel Booking System** — an AI-powered travel and booking system I developed. I'll add its public showcase when I upload the repository.
+- **AI-Powered Intelligent Travel Booking System** — an AI-powered travel and booking system. I'll add its public showcase when I upload the repository.
 
 ---
 
@@ -71,9 +78,9 @@ A multi-platform project foundation combining a **Node.js/Express backend, React
 
 ---
 
-## 🎯 What I'm Building Toward
+## 🎯 Current Focus
 
-I want to build dependable AI systems that go beyond demos — intelligent agents, AI-powered applications, useful automation, and production-minded software.
+Building dependable AI applications with **LLMs, RAG pipelines, AI agents, tool calling, and search-based retrieval**, supported by robust APIs, databases, and clean user interfaces.
 
 ---
 
@@ -81,7 +88,7 @@ I want to build dependable AI systems that go beyond demos — intelligent agent
 
 ### 🤝 Let's Connect
 
-I'm interested in **AI engineering, Generative AI, agentic systems, machine learning, and building useful software**.
+I'm interested in **Generative AI, LLM engineering, AI agents, backend development, and building useful software**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VirojaYeshpatel-181717?style=for-the-badge&logo=github)](https://github.com/VirojaYeshpatel)
 
