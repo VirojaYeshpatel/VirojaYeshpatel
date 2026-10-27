@@ -38,7 +38,8 @@ I build AI-powered applications and practical software across machine learning, 
 A backend alerting platform built with **FastAPI, SQLAlchemy, MySQL, and APScheduler**, with alert management, snoozing, reminders, and analytics.
 
 ### 👁️ [Object Detection with Distance Estimation](https://github.com/VirojaYeshpatel/Object_Detection_With_Distance)
-A computer-vision project focused on detecting objects and estimating their distance.
+A computer-vision project focused on detecting objects and estimating their distance.  
+[**🚀 Try the live demo**](https://virojayeshpatel.github.io/Object_Detection_With_Distance/)
 
 ### 🎬 [Movie Recommendation System](https://github.com/VirojaYeshpatel/movie-app)
 A machine-learning-powered movie recommender built with **Python, Streamlit, Pandas, NumPy, and scikit-learn**, using recommendation techniques and similarity matching.  
